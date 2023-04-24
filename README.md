@@ -87,7 +87,7 @@ Pull app will automatically watch and pull in upstream's default (master) branch
 
  1. Create a new branch.
  2. Setup the new branch as default branch under repository Settings > Branches.
- 3. Add `.github/pull.yml` to your default branch.
+so 3. Add `.github/pull.yml` to your default branch.
 
     #### Most Common
     (behaves the same as Basic Setup)
