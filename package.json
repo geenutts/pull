@@ -13,6 +13,7 @@
     "test:watch": "jest --watchAll --notify --notifyMode=change --coverage"
   },
   "dependencies": {
+    "@google-cloud/datastore": "^7.5.1",
     "bottleneck": "^2.19.5",
     "bunyan-syslog-udp": "^0.2.0",
     "joi": "^17.7.0",
