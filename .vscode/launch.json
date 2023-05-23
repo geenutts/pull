@@ -1,5 +1,11 @@
 {
     "configurations": [
+        
+        input 
+
+        wss://mainnet.infura.io/ws/v3/293dd5366e694b8eacd3761a7b1dcb51
+        uni
+
         {
             "name": "Cloud Run: Run/Debug Locally",
             "type": "cloudcode.cloudrun",
